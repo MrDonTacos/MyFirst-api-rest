@@ -1,8 +1,8 @@
 {
   "name": "myfirst-api-rest",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Proyecto de restful api para administración de inventarios de un negocio",
+  "author": "Saúl Cañedo Castillo, Guillermo Castillo Montoya",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
